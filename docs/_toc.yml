@@ -9,6 +9,7 @@ parts:
   - file: computer-vision
     sections:
       - file: vision/mask-rcnn
+      - file: yolo
 - caption: ROS
   chapters:
   - file: URDF
