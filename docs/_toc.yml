@@ -17,6 +17,6 @@ parts:
   - file: installing-ros
 - caption: Configuration Guides
   chapters:
-  - file: configuration-guides
+  - file: guides/configuration-guides
     sections:
       - file: guides/CANbus-config

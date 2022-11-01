@@ -1,4 +1,4 @@
-# Linux CANbus 101 Guide
+# CANbus on Linux 101 Guide
 CANbus is a very usefull protocol used for comunication mainly in automation
 with only 2 wires it permits the comunication of many devices it is fast and reliable,
 this protocol is used by our robot to comunicate with the wheel drivers,even though its so great it can be tricky to get it set up and working. but Fear not ! 
