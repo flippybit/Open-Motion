@@ -22,4 +22,4 @@ parts:
   - file: guides/configuration-guides
     sections:
       - file: guides/CANbus101
-      - file: guides/configuration-guides
+      - file: guides/configuration-guides~
