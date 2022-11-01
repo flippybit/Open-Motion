@@ -9,9 +9,14 @@ parts:
   - file: computer-vision
     sections:
       - file: vision/mask-rcnn
-      - file: yolo
+      - file: vision/yolo
 - caption: ROS
   chapters:
   - file: URDF
   - file: manipulator
   - file: installing-ros
+- caption: Configuration Guides
+  chapters:
+  - file: configuration-guides
+    sections:
+      - file: guides/CANbus-config
