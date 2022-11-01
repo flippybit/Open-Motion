@@ -19,4 +19,4 @@ parts:
   chapters:
   - file: guides/configuration-guides
     sections:
-      - file: guides/CANbus-config
+      - file: guides/CANbus101
