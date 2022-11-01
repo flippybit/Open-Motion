@@ -6,17 +6,20 @@ parts:
 
 - caption: Computer Vision
   chapters:
-  - file: computer-vision
+  - file: vision/computer-vision
     sections:
       - file: vision/mask-rcnn
       - file: vision/yolo
+
 - caption: ROS
   chapters:
-  - file: URDF
-  - file: manipulator
-  - file: installing-ros
+  - file: ros/URDF
+  - file: ros/manipulator
+  - file: ros/installing-ros
+
 - caption: Configuration Guides
   chapters:
   - file: guides/configuration-guides
     sections:
       - file: guides/CANbus101
+      - file: guides/configuration-guides
