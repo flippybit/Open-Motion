@@ -21,6 +21,6 @@ SDO services are intender to configure or diagnose a CANopen device.
 SDO services increase the busload.
 
 PDO: Process Data Object(PDO) used to transmit time-critical data like measured values or commands.
-the PDO service is not confirmed(it does not talk back) it is a pub/sub type service
+the PDO service is not confirmed(it does not talk back) it is a pub/sub type service.
 PDO's are mapped to a single CAN data frame using a CAN-ID determined by the COB-ID parameter in the object dictionary.
 transmision type is also set here reception/transmision rx/tx
