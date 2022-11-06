@@ -1,3 +1,9 @@
+# TO GENERATE THE CONF.PY use the following command!!!!!!!!!!!!!!!
+# jupyter-book config sphinx path/to/mybook/
+# ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+# fire@fire-box:~/open-motion$ jupyter-book config sphinx ~/open-motion/
+
+
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
