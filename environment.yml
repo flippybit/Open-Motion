@@ -8,4 +8,14 @@ dependencies:
   - certifi
   - openssl
   - pydata-sphinx-theme
+  - pip:
+    - contourpy==1.0.6
+    - cycler==0.11.0
+    - fonttools==4.38.0
+    - kiwisolver==1.4.4
+    - lesscpy==0.15.1
+    - matplotlib==3.6.2
+    - numpy==1.23.4
+    - pillow==9.3.0
+    - ply==3.11
 prefix: /home/fire/miniconda3/envs/open-motion
