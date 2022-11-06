@@ -1,6 +1,7 @@
 name: open-motion
 channels:
   - defaults
+  - conda-forge
 dependencies:
   - jupyter-book
   - jupyter_sphinx
