@@ -1,11 +1,10 @@
 name: open-motion
 channels:
   - defaults
-  - conda-forge
 dependencies:
+  - jupyter-book
   - jupyter_sphinx
   - ca-certificates
   - certifi
   - openssl
-  - jupyter-book
 prefix: /home/fire/miniconda3/envs/open-motion
