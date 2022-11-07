@@ -16,6 +16,7 @@ parts:
   - file: ros/URDF
   - file: ros/manipulator
   - file: ros/installing-ros
+  - file: ROS-workflows
 
 - caption: Configuration Guides
   chapters:

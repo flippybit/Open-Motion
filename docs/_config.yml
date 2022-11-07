@@ -38,4 +38,4 @@ html:
   use_repository_button: true
 
 sphinx:
-  html_theme: furo
+  html_theme: sphinx_book_theme
